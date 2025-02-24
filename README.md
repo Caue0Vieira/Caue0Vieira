@@ -95,20 +95,8 @@ Sobre Mim 🚀
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Caue0Vieira&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caue0Vieira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20" 
-  />
-
-</p>
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caue0Vieira&show_icons=true&theme=tokyonight&locale=pt-br">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caue0Vieira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20" 
+</div>
