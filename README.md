@@ -19,7 +19,7 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um estudante de Analise e Desenvolvime
 
 Sobre Mim 🚀
 
-💻 Atualmente trabalho como desenvolverdor.
+💻 Atualmente trabalho como desenvolvedor.
 
 🌱 Estou sempre aprendendo e explorando novas ferramentas e linguagens, como PHP, Python, Js,.
 
