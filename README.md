@@ -21,7 +21,7 @@ Sobre Mim 🚀
 
 💻 Atualmente trabalho como desenvolvedor.
 
-🌱 Estou sempre aprendendo e explorando novas ferramentas e linguagens, como PHP, Python, Js,.
+🌱 Estou sempre aprendendo e explorando novas ferramentas e linguagens, como PHP, Java.
 
 
 ### 🤖 Linguagens e Tecnologias
