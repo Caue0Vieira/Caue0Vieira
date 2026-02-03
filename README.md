@@ -85,16 +85,3 @@ Sobre Mim 🚀
   <a href="https://www.linkedin.com/in/cauê-vieira-a599b22a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-### 📊 Estatísticas
-
-<div align="left">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=Caue0Vieira&show_icons=true&theme=tokyonight&locale=pt-br"
-  />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caue0Vieira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10"
-  />
-</div>
